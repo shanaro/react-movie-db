@@ -7,7 +7,7 @@ MovieVision Preview
 
 
 🌟 Overview
-MovieVision is a React-powered web app that transforms how you discover movies. Leveraging the TMDb API, it delivers personalized movie recommendations, trending picks, and detailed film insights in a sleek interface.
+MovieVision is a React-powered web app developed aa a group project  that transforms how you discover movies. Leveraging the TMDb API, it delivers personalized movie recommendations, trending picks, and detailed film insights in a sleek interface.
 
 
 ✨ Key Features
